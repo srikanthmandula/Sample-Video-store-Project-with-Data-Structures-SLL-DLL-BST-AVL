@@ -1,0 +1,2 @@
+# Sample-Video-store-Project-with-Data-Structures-SLL-DLL-BST-AVL
+Project is to implement Single linked list, Double linked list, Binary Search tree and AVL tree data structures by developing a video store (1) maintain the information of videos and customers (by using the data structures Linked Lists and Trees), and (2) operate and record customers’ transactions.  Step by step working of project is attached with the file name "Video store working stages"
